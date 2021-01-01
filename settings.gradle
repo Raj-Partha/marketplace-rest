@@ -1,0 +1,5 @@
+rootProject.name = 'marketplace'
+include 'corda-query-interface'
+include 'marketplace-api'
+
+
